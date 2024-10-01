@@ -1,0 +1,12 @@
+body {
+    margin: 50px 10px 50px 10px;
+}
+
+.column {
+    column-count: 3;
+    column-rule: 1px;
+}
+
+.table {
+    column-count: 4;
+}
