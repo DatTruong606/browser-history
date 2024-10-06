@@ -11,4 +11,38 @@ body {
 
 .img {
     float: left;
+columns-2
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+ul li {
+    margin: 0 15px;
+}
+
+ul li a {
+    padding: 10px 20px;
+    display: block;
+}
+
+#browsers {
+    display: flex;
+    justify-content:space-between;
+    padding: 20px;
+}
+
+.browser {
+    width: 300px;
+    padding: 20px;
+}
+
+.browser h2 {
+    text-align: center;
+main
 }
