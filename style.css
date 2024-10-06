@@ -11,6 +11,7 @@ body {
 
 .img {
     float: left;
+columns-2
 }
 
 ul {
@@ -43,4 +44,5 @@ ul li a {
 
 .browser h2 {
     text-align: center;
+main
 }
